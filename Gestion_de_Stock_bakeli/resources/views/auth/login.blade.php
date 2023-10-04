@@ -7,7 +7,7 @@
 			<div class="bg-successs zerogrid" style="width: 100%;">
 				<div class="row">
 					<div class="col-2-3">
-						<img src="assets\login\images\header.jpg">
+						<img src="assets\login\images\authimg.jpg" >
 					</div>
 					<div class="col-1-3">
 						<div class="header-text">
